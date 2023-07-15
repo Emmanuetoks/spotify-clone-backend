@@ -6,5 +6,5 @@
     "sourceMap": true,
     "outDir": "dist",
   },
-  "include": ["src/**/*", "src/middlewares/globalErrorHandler.ts"],
+  "include": ["src/**/*", "src/middlewares/globalErrorHandler.ts", "dist/types"],
 }

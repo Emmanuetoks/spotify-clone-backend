@@ -1,10 +1,10 @@
 import { NextFunction, Response } from "express"
+import { ControllerFunction } from "../types/spotify-api.js"
 
-type ControllerFunction = (req:any, res:Response, next:NextFunction)=>Promise<void>
 
 const catchAsync = (fn:ControllerFunction) => {
     return (
-        (req, res, next) => fn(req, res, next).catch((err) => next(err))
+        (req, res:Response, next:NextFunction) => fn(req, res, next).catch((err) => next(err))
     )
 }
 
