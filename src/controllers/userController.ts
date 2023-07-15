@@ -2,6 +2,7 @@ import { Request } from "express";
 import User from "../models/userModel.js";
 import AppError from "../utils/appError.js";
 import catchAsync from "../utils/catchAsync.js";
+import bcrypt from 'bcryptjs'
 
 export const getUser = catchAsync(async (req: Request, res, next) => {
   const {userID} = req.params;
@@ -15,14 +16,12 @@ export const getUser = catchAsync(async (req: Request, res, next) => {
   });
 });
 
-
-export const getUsers = catchAsync(async (req, res, next) => {
-    console.log('Hello World');
-    
+export const getUsers = catchAsync(async (req, res, next) => {    
     const result = await User.find()
     res.status(200).json({
         status:'succcess',
         data:result
-    })
-    
+    })    
 })
+
+

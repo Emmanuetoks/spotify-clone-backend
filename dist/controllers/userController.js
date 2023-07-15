@@ -13,7 +13,6 @@ export const getUser = catchAsync(async (req, res, next) => {
     });
 });
 export const getUsers = catchAsync(async (req, res, next) => {
-    console.log('Hello World');
     const result = await User.find();
     res.status(200).json({
         status: 'succcess',

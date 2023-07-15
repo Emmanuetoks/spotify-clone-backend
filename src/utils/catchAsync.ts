@@ -1,6 +1,6 @@
 import { NextFunction, Response } from "express"
 
-type ControllerFunction = (req:any, res:Response, next:NextFunction)=>Promise<any>
+type ControllerFunction = (req:any, res:Response, next:NextFunction)=>Promise<void>
 
 const catchAsync = (fn:ControllerFunction) => {
     return (

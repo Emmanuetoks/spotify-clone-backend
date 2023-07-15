@@ -4,7 +4,7 @@ import globalErrorHandler from './middlewares/globalErrorHandler.js'
 import bodyParser from 'body-parser'
 import AppError from './utils/appError.js'
 import addCorsHeaders from './middlewares/corsErrorHandler.js'
-import { signUpUser } from './controllers/authController.js'
+import { loginUser, signUpUser } from './controllers/authController.js'
 const app = express()
 
 // MIDDLEWARE
@@ -14,7 +14,8 @@ app.use(addCorsHeaders)
 
 
 // ROUTES
-app.use('/signup', signUpUser)
+app.post('/signup', signUpUser)
+app.post('/login', loginUser)
 app.use('/api/v1/users', userRoutes)
 
 app.all('*', (req, res, next)=>{
