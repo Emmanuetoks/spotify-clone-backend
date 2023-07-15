@@ -12,11 +12,10 @@ export const signUpUser = catchAsync(async (req, res, next) => {
         username: req.body.username || 'Rnadomuser2839',
         confirmPassword: req.body.confirmPassword
     });
-    // const token = jsonwebtoken.sign({id:newUser._id}, process.env.JWT_SECRET)
     res.status(200).json({
         status: 'success',
         message: 'User created',
-        // data:newUser
+        data: newUser
     });
 });
 export const loginUser = catchAsync(async (req, res, next) => {

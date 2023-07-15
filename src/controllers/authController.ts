@@ -3,6 +3,7 @@ import AppError from "../utils/appError.js";
 import catchAsync from "../utils/catchAsync.js";
 import jsonwebtoken from 'jsonwebtoken'
 import bcrypt from 'bcryptjs'
+import { LoginRequestBody } from "../types/spotify-api.js";
 
 export const signUpUser = catchAsync(async (req, res, next) => {
     console.log(req.body);
@@ -15,18 +16,16 @@ export const signUpUser = catchAsync(async (req, res, next) => {
         confirmPassword:req.body.confirmPassword
     })
 
-    // const token = jsonwebtoken.sign({id:newUser._id}, process.env.JWT_SECRET)
-
     res.status(200).json({
         status:'success',
         message:'User created',
-        // data:newUser
+        data:newUser
     })
 })
 
 
 export const loginUser = catchAsync(async (req, res, next) => {
-    const {email, password} = req.body
+    const {email, password}:LoginRequestBody = req.body
     
     const user = await User.findOne({email}).select('name _id email password')
     
