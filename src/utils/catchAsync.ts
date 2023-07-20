@@ -1,5 +1,5 @@
 import { NextFunction, Response } from "express"
-import { ControllerFunction } from "../types/spotify-api.js"
+import { ControllerFunction } from "../types/spotifyApiTypes.js"
 
 
 const catchAsync = (fn:ControllerFunction) => {

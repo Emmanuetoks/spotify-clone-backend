@@ -1,25 +1,9 @@
-import mongoose, { Model } from "mongoose";
+import mongoose, { Model, Schema } from "mongoose";
 import bcrypt from "bcryptjs";
+import { IUser, UserModel } from "../types/userSchemaTypes.js";
 
-interface UserType {
-  name: string;
-  username: string;
-  password: string;
-  email: string;
-  confirmPassword: string;
-  accountType: string;
-  playlists: UserPlayListType[];
-}
 
-type UserPlayListType = {
-  name: string;
-};
-
-interface UserMethods {}
-
-type UserModel = Model<UserType, {}, UserMethods>;
-
-const userSchema = new mongoose.Schema({
+const userSchema = new mongoose.Schema<IUser>({
   name: {
     type: String,
   },
@@ -33,9 +17,13 @@ const userSchema = new mongoose.Schema({
 
   email: {
     type: String,
-    match: /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/,
     required: [true, "User must have an email"],
     unique: [true, "User emails must be unique"],
+    validate:
+      [function(val:string) {
+        return /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/.test(val)
+      }, 'Not a valid email']
+    
   },
   confirmPassword: {
     type: String,
@@ -52,15 +40,26 @@ const userSchema = new mongoose.Schema({
     enum: ["free", "premium"],
     default: "free",
   },
+
+  playLists:{
+    type:[Schema.Types.ObjectId],
+    ref: 'PlayList',
+  },
+  accountPlan:{
+    type:String,
+    enum:['normal', 'artist'],
+    default:'normal',
+  }
 });
 
-userSchema.pre("save", async function (next) {
+userSchema.pre("save", async function (this:IUser, next) {
   const hashedPassword = await bcrypt.hash(this.password, 12);
   this.password = hashedPassword;
   this.confirmPassword = undefined;
   next();
 });
 
-const User = mongoose.model<UserType, UserModel>("User", userSchema);
+const User = mongoose.model<IUser, UserModel>("User", userSchema);
 
 export default User;
+type w = { (regexp: string | RegExp): RegExpMatchArray; (matcher: { [Symbol.match](string: string): RegExpMatchArray; }): RegExpMatchArray; }

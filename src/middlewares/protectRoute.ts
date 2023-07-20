@@ -3,7 +3,7 @@ import User from "../models/userModel.js";
 import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/appError.js";
 import { type } from "os";
-import { DecodedToken } from "../types/spotify-api.js";
+import { DecodedToken } from "../types/spotifyApiTypes.js";
 
 // To protect route
 /**
@@ -38,7 +38,7 @@ export const protectRoute = catchAsync(async (req, res, next) => {
 
   // Check if user still exists
   if (!(await User.findOne({ _id: verifiedToken.id })))
-    return next(new AppError("User does not exist anymore", 401));
+    return next(new AppError("User does not exist anymore, JWT Expired", 401));
 
     // Call Next Middleware
   next();

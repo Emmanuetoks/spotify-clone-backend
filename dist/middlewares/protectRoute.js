@@ -31,7 +31,7 @@ export const protectRoute = catchAsync(async (req, res, next) => {
         return next(new AppError("You are not logged. Log in to view this resource", 401));
     // Check if user still exists
     if (!(await User.findOne({ _id: verifiedToken.id })))
-        return next(new AppError("User does not exist anymore", 401));
+        return next(new AppError("User does not exist anymore, JWT Expired", 401));
     // Call Next Middleware
     next();
 });

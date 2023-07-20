@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose, { Schema } from "mongoose";
 import bcrypt from "bcryptjs";
 const userSchema = new mongoose.Schema({
     name: {
@@ -12,9 +12,11 @@ const userSchema = new mongoose.Schema({
     },
     email: {
         type: String,
-        match: /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/,
         required: [true, "User must have an email"],
         unique: [true, "User emails must be unique"],
+        validate: [function (val) {
+                return /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/.test(val);
+            }, 'Not a valid email']
     },
     confirmPassword: {
         type: String,
@@ -31,6 +33,15 @@ const userSchema = new mongoose.Schema({
         enum: ["free", "premium"],
         default: "free",
     },
+    playLists: {
+        type: [Schema.Types.ObjectId],
+        ref: 'PlayList',
+    },
+    accountPlan: {
+        type: String,
+        enum: ['normal', 'artist'],
+        default: 'normal',
+    }
 });
 userSchema.pre("save", async function (next) {
     const hashedPassword = await bcrypt.hash(this.password, 12);
