@@ -1,0 +1,653 @@
+{
+  "message":"Mood",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFzHmL4tf05da/playlists?country=NG&offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Songs for a broken heart",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7qK8ma5wgG1" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7qK8ma5wgG1",
+        "id": "37i9dQZF1DX7qK8ma5wgG1",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003583117b5f326c5759bcd4628",
+            "width": null
+          }
+        ],
+        "name": "Sad Songs",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTY5OTQ2OSwwMDAwMDAwMGU3MDI5MDdlZTNlNjdlY2MxZDkwZTFlYTA4OGJmNjZm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7qK8ma5wgG1/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7qK8ma5wgG1"
+      },
+      {
+        "collaborative": false,
+        "description": "All the vibes. All the feels. 🫠",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7gIoKXt0gmx" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7gIoKXt0gmx",
+        "id": "37i9dQZF1DX7gIoKXt0gmx",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003ded51a3541ee60e81a6545e8",
+            "width": null
+          }
+        ],
+        "name": "All The Feels",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDQwMzk1OSwwMDAwMDAwMDcyYTg1NjJiN2Q2MDExMTFkNjY4ZWFiYzhjYWM4MGEw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7gIoKXt0gmx/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7gIoKXt0gmx"
+      },
+      {
+        "collaborative": false,
+        "description": "Splash and sing-along.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ",
+        "id": "37i9dQZF1DWSqmBTGDYngZ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003329e2c5d3104f8c6a1d16a34",
+            "width": null
+          }
+        ],
+        "name": "Songs to Sing in the Shower",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTM3MjY4MSwwMDAwMDAwMGI4ZDJiZGMzZDM5NzRjNDI1MTFhYjJjYmUyNDQzMjdj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSqmBTGDYngZ/tracks",
+          "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSqmBTGDYngZ"
+      },
+      {
+        "collaborative": false,
+        "description": "Afrobeats love stories have the best beginnings",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2bIhTmfM3ln" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2bIhTmfM3ln",
+        "id": "37i9dQZF1DX2bIhTmfM3ln",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000378437719f4eb1f9b091e3dc0",
+            "width": null
+          }
+        ],
+        "name": "Lovin' Beats",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU0NTU0NywwMDAwMDAwMDBkYThkOTQ4NDM3Y2MzZjUzOThjMWY0ZGI3MTI1Nzlj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2bIhTmfM3ln/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2bIhTmfM3ln"
+      },
+      {
+        "collaborative": false,
+        "description": "Having a bad day? We know how it feels!",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3YSRoSdA634" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3YSRoSdA634",
+        "id": "37i9dQZF1DX3YSRoSdA634",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000337499ba650da0f36e8285bd9",
+            "width": null
+          }
+        ],
+        "name": "Life Sucks",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTk0NTk3MCwwMDAwMDAwMDg0ZWZjMTk1NDZjNzg5NGNlM2RlNDdiZmE2MTQ1M2Qz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3YSRoSdA634/tracks",
+          "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX3YSRoSdA634"
+      },
+      {
+        "collaborative": false,
+        "description": "Somehow heartbreak feels good in a place like this. Cover: kenzie",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSqBruwoIXkA",
+        "id": "37i9dQZF1DWSqBruwoIXkA",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003b348ffdc31beba94597ff481",
+            "width": null
+          }
+        ],
+        "name": "sad hour",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMDY5MzViYjViNDc3MDFiYTY2ZGFlNTk4MThiZDE1MGNj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSqBruwoIXkA/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSqBruwoIXkA"
+      },
+      {
+        "collaborative": false,
+        "description": "you up?",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdl6IPOySdX4" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdl6IPOySdX4",
+        "id": "37i9dQZF1DXdl6IPOySdX4",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000030d5e6f861f423ecfac53610b",
+            "width": null
+          }
+        ],
+        "name": "goosebumps",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDMzNTEzOSwwMDAwMDAwMDQ0Y2IxMWE1Y2Y2NWQ5ODhhNmE0YTE3NGRiZTQ5Nzc4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdl6IPOySdX4/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXdl6IPOySdX4"
+      },
+      {
+        "collaborative": false,
+        "description": "Set it off with these epic anthems. Only good vibes here!",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWYBO1MoTDhZI" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYBO1MoTDhZI",
+        "id": "37i9dQZF1DWYBO1MoTDhZI",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003ed91f72d69d10c9805cf25b3",
+            "width": null
+          }
+        ],
+        "name": "Good Vibes",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMDFjNDIwN2QyYzBmODU3OWJkOGY4MjU1YzYyMWVmYjY3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYBO1MoTDhZI/tracks",
+          "total": 85
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWYBO1MoTDhZI"
+      },
+      {
+        "collaborative": false,
+        "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZEBR5Lu37rb",
+        "id": "37i9dQZF1DWZEBR5Lu37rb",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000397fb5989d2943653233c1c42",
+            "width": null
+          }
+        ],
+        "name": "100 Best African Love Songs ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjgzNjg2NSwwMDAwMDAwMGMyYjU1NThjMTc1NDc2OTlkZGU2MTc4NDhjNjJjMTc0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZEBR5Lu37rb/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZEBR5Lu37rb"
+      },
+      {
+        "collaborative": false,
+        "description": "For the pain, tears and heartbreak.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX16fznubzL23" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX16fznubzL23",
+        "id": "37i9dQZF1DX16fznubzL23",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000037b859d7b512ff69444a3bb29",
+            "width": null
+          }
+        ],
+        "name": "End in Tears ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU0MTU3OCwwMDAwMDAwMGJiZDM3OTEwMTQ3MDc4MmNkNTA0OTg2YmM3MjgxZTE1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX16fznubzL23/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX16fznubzL23"
+      },
+      {
+        "collaborative": false,
+        "description": "Get happy with today's dose of feel-good songs!",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0",
+        "id": "37i9dQZF1DX3rxVfibe1L0",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003bd0e19e810bb4b55ab164a95",
+            "width": null
+          }
+        ],
+        "name": "Mood Booster",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTkxMjg5MCwwMDAwMDAwMDM1NWUzYTFlY2JlODhmMmQ1YTcyNDA4NDQwMDc0MjVj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3rxVfibe1L0/tracks",
+          "total": 76
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX3rxVfibe1L0"
+      },
+      {
+        "collaborative": false,
+        "description": "Hits to boost your mood and fill you with happiness!",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdPec7aLTmlC",
+        "id": "37i9dQZF1DXdPec7aLTmlC",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003b55b6074da1d43715fc16d6d",
+            "width": null
+          }
+        ],
+        "name": "Happy Hits!",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTI4NTY2MCwwMDAwMDAwMGNmMmY5YTQyMDMxNmNkZmFmY2Y2NmYyOWI3MjI1YTMz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdPec7aLTmlC/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+      },
+      {
+        "collaborative": false,
+        "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: BIA",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GwdWRQMQpq",
+        "id": "37i9dQZF1DX6GwdWRQMQpq",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000362f22a00d9dab72d8d3b81f0",
+            "width": null
+          }
+        ],
+        "name": "Feelin' Myself",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU2OTk1MiwwMDAwMDAwMDYxMDExZTM2NzEyODA2ZmEwZjQxYjgxZjNhYjM2MmUw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GwdWRQMQpq/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6GwdWRQMQpq"
+      },
+      {
+        "collaborative": false,
+        "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc?si=LOLdFQtbQLCmbOCCj1U6-A\"> Dayonthetrack </a> ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUUBD5WCN49h",
+        "id": "37i9dQZF1DWUUBD5WCN49h",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000034ce51d0ca990b731c8bbf8a8",
+            "width": null
+          }
+        ],
+        "name": "Sizzlers ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUwMjQwMCwwMDAwMDAwMGY2OTU2NWI1NmY1ZGNjODI4ZGU5NDFiMTRkYjFhNzAz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUUBD5WCN49h/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWUUBD5WCN49h"
+      },
+      {
+        "collaborative": false,
+        "description": "Late night cool and the sound of smooth blues.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcc6f6HRuPnq" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcc6f6HRuPnq",
+        "id": "37i9dQZF1DXcc6f6HRuPnq",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000037dcfe999753dfd036550666a",
+            "width": null
+          }
+        ],
+        "name": "Midnight Blues",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkyMDEyMiwwMDAwMDAwMDhmNDA2M2EyM2NiYjRlMjk3Nzk1ZDZjMjYyZDA3YTcy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcc6f6HRuPnq/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcc6f6HRuPnq"
+      },
+      {
+        "collaborative": false,
+        "description": "slowed, reverbed, chopped and screwed.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0h2LvJ7ZJ15" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0h2LvJ7ZJ15",
+        "id": "37i9dQZF1DX0h2LvJ7ZJ15",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003153666f68ec6c5e7970192e4",
+            "width": null
+          }
+        ],
+        "name": "slowed and reverbed",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTYyMzYyNSwwMDAwMDAwMDM5YTQzMTU1MmQwYTVjOTZhNTk4NjlkZmMwNzg0YjQ2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0h2LvJ7ZJ15/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0h2LvJ7ZJ15"
+      },
+      {
+        "collaborative": false,
+        "description": "Music that makes you feel like you're levitating.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVY5eNJoKHd2" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVY5eNJoKHd2",
+        "id": "37i9dQZF1DWVY5eNJoKHd2",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000388176f364f98371e03bb9d98",
+            "width": null
+          }
+        ],
+        "name": "Levitate",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDQ3NTQ4NiwwMDAwMDAwMDc0NDUwNjUwZWVmN2E3ZTIxMjZjZTYxZGY2ZjBkYzgy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVY5eNJoKHd2/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVY5eNJoKHd2"
+      },
+      {
+        "collaborative": false,
+        "description": "Emo feels for the misunderstood. Cover: Lil Peep",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6xZZEgC9Ubl",
+        "id": "37i9dQZF1DX6xZZEgC9Ubl",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003a4ecdafcb012d6d880e3e646",
+            "width": null
+          }
+        ],
+        "name": "tear drop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDQ3OTk4OSwwMDAwMDAwMDExODJiOTI1MGM5ZTEyNDA3MzIwODE3NDMzYzI2YWMw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6xZZEgC9Ubl/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6xZZEgC9Ubl"
+      },
+      {
+        "collaborative": false,
+        "description": "Need to get your energy level up?",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTUHzPOW6Jl7" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTUHzPOW6Jl7",
+        "id": "37i9dQZF1DWTUHzPOW6Jl7",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003537dd6bd39ef8f492bcdd2c9",
+            "width": null
+          }
+        ],
+        "name": "Energy Booster: R&B",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTMwODI0NCwwMDAwMDAwMGI3MjQzNWUwMzUzOTEwZmE2NGM2OWU2YjIzODNjMmQx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTUHzPOW6Jl7/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTUHzPOW6Jl7"
+      },
+      {
+        "collaborative": false,
+        "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSf2RDTDayIx" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSf2RDTDayIx",
+        "id": "37i9dQZF1DWSf2RDTDayIx",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000325d50fa7cc51b307364050f5",
+            "width": null
+          }
+        ],
+        "name": "Happy Beats",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDg4Zjk5Mjc2M2M3YWJlMmI5NTk5ZWYzMmQ1YWM5N2Ez",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSf2RDTDayIx/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFzHmL4tf05da/playlists?country=NG&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 83
+  }
+}

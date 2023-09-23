@@ -1,0 +1,333 @@
+{
+  "message": "Editor's picks",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?country=NG&timestamp=2023-07-30T03%3A35%3A38&offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSRc3WJklgBs" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSRc3WJklgBs",
+        "id": "37i9dQZF1DWSRc3WJklgBs",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000300982b0a2b59c246d3b1d46b",
+            "width": null
+          }
+        ],
+        "name": "Heart Beats",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDMwMGZhMWQyMjRlNzlmMDBiOWE2YWQ3N2VhZjMwZmQx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSRc3WJklgBs/tracks",
+          "total": 230
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSRc3WJklgBs"
+      },
+      {
+        "collaborative": false,
+        "description": "that’s how it's supposed to be. living young, wild and free!!!!!",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX843Qf4lrFtZ" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX843Qf4lrFtZ",
+        "id": "37i9dQZF1DX843Qf4lrFtZ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000328c39adc993e8590097154c7",
+            "width": null
+          }
+        ],
+        "name": "young, wild & free",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkxOTQ0MywwMDAwMDAwMDcxZDg4ZWNiMmM2ZWE4Mzg5YTZjYTA3ZTYyN2Y2YTMx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX843Qf4lrFtZ/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX843Qf4lrFtZ"
+      },
+      {
+        "collaborative": false,
+        "description": "sensual roots & indie folk.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1BGjF5N5O7F" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1BGjF5N5O7F",
+        "id": "37i9dQZF1DX1BGjF5N5O7F",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000039855c85c161bb816c9e99cc0",
+            "width": null
+          }
+        ],
+        "name": "intertwined",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4ODA5NzYwMCwwMDAwMDAwMGMyZDU4MjZlNTAwMGMwYjNlZWU0YjJmOTc1Y2M1OWU5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1BGjF5N5O7F/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1BGjF5N5O7F"
+      },
+      {
+        "collaborative": false,
+        "description": "Gentle Ambient piano to help you fall asleep. ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZd79rJ6a7lp",
+        "id": "37i9dQZF1DWZd79rJ6a7lp",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000381722192322800ae99c2ed06",
+            "width": null
+          }
+        ],
+        "name": "Sleep",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU1NzgyNSwwMDAwMDAwMDdiOWZmYmU2MzNhODU4OGQ1MGExMTU4ZDc1OGMyODdi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZd79rJ6a7lp/tracks",
+          "total": 234
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZd79rJ6a7lp"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 2010s. ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ejj0EkURtP",
+        "id": "37i9dQZF1DX5Ejj0EkURtP",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003ce2e62a258c09741e20dccc9",
+            "width": null
+          }
+        ],
+        "name": "All Out 2010s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkyMDEwNSwwMDAwMDAwMGU1N2Q0MTE4YTAyZDg5Nzg2MjMwMjJkN2IwNTY2ZDZl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ejj0EkURtP/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+      },
+      {
+        "collaborative": false,
+        "description": "Kick back to the best new and recent chill hits.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4WYpdgoIcn6",
+        "id": "37i9dQZF1DX4WYpdgoIcn6",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003b60db5d1bcdd9c4fd1ebcffe",
+            "width": null
+          }
+        ],
+        "name": "Chill Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4ODcxMjE2NSwwMDAwMDAwMDNiNGRlYTkzNDFlNmIxMzY5MzY4MDI2NWJhOGIzZThi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4WYpdgoIcn6/tracks",
+          "total": 130
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4WYpdgoIcn6"
+      },
+      {
+        "collaborative": false,
+        "description": "Mood: Turnt",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWY4xHQp97fN6",
+        "id": "37i9dQZF1DWY4xHQp97fN6",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003190c3b2d05550ca2fe10e27e",
+            "width": null
+          }
+        ],
+        "name": "Get Turnt",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUyMDIyMCwwMDAwMDAwMDdkOGJmZjUyNGNkOTU4MDE5Njc3MWIyYzQyZjJmYWQx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWY4xHQp97fN6/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWY4xHQp97fN6"
+      },
+      {
+        "collaborative": false,
+        "description": "Indie soul that's highkey fire ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2yvmlOdMYzV" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2yvmlOdMYzV",
+        "id": "37i9dQZF1DX2yvmlOdMYzV",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003e30928da232fef3e6c82dc71",
+            "width": null
+          }
+        ],
+        "name": "Lowkey",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMGZjZjg0ZmFmNzQ4OTBjZTVlYjlmOWNhOTI2ZTE5MmJi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2yvmlOdMYzV/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2yvmlOdMYzV"
+      },
+      {
+        "collaborative": false,
+        "description": "get into your feels with some r&b magic",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1aA8os1ylFZ" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1aA8os1ylFZ",
+        "id": "37i9dQZF1DX1aA8os1ylFZ",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003807d75402bf279b2ef73ac8d",
+            "width": null
+          }
+        ],
+        "name": "R&B Magic",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NzMzNTMwNywwMDAwMDAwMDYyNmViYTIwMTQ0MzAxYzI4NWZhYzhiNWRjYjVkNDYz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1aA8os1ylFZ/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1aA8os1ylFZ"
+      },
+      {
+        "collaborative": false,
+        "description": "It's like rock, but softer. Cover: Billy Joel",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone",
+        "id": "37i9dQZF1DX6xOPeSOGone",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003c398315a76e5dd456cb0f516",
+            "width": null
+          }
+        ],
+        "name": "Soft Rock",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkyMDEwOSwwMDAwMDAwMGMyNjJkOWI4YjQ4ZjFjODQ2YjliZmZhOTQwMTg3ODk0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6xOPeSOGone/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6xOPeSOGone"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10
+  }
+}

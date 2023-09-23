@@ -1,0 +1,733 @@
+{
+  "message": "Top Picks",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/users/spotify/playlists?offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Post Malone is on top of the Hottest 50!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000038aac8628d0ae78c212d69117",
+            "width": null
+          }
+        ],
+        "name": "Today's Top Hits ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMGJmNWMzZGE0NDkzMjMzMzlmYTIxNWJmYTFkYjJjYTBm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+      },
+      {
+        "collaborative": false,
+        "description": "New music from Travis Scott, Drake, Central Cee and Offset. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd",
+        "id": "37i9dQZF1DX0XUsuxWHRQd",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003e5382c6955d7aee148ac4e07",
+            "width": null
+          }
+        ],
+        "name": "RapCaviar",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDgzMzQzMSwwMDAwMDAwMGQ4YjAzNjgwNzE1MDVkNjc5N2IwNGEyZDFlYmJlNzE0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+      },
+      {
+        "collaborative": false,
+        "description": "Today's top country hits. Cover: Lainey Wilson",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda",
+        "id": "37i9dQZF1DX1lVhptIYRda",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000365192685cdbde7815672489b",
+            "width": null
+          }
+        ],
+        "name": "Hot Country",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDVkODZlNzRhNmZjNDY2NDgzYmU5Nzg3NDA3YzlmNTMx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1lVhptIYRda"
+      },
+      {
+        "collaborative": false,
+        "description": "Today's top Latin hits, elevando nuestra música. Cover: Quevedo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX10zKzsJ2jva",
+        "id": "37i9dQZF1DX10zKzsJ2jva",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000038604944b3435cbc8d55f567a",
+            "width": null
+          }
+        ],
+        "name": "Viva Latino",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMGFlZTQ4ODkzODJjYjNjZGEwYjBlNTUyMTk1ZTUyNmEx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX10zKzsJ2jva/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX10zKzsJ2jva"
+      },
+      {
+        "collaborative": false,
+        "description": "New music from Travis Scott, Post Malone, Offset & Cardi B, Mitski, Calvin Harris & Sam Smith and more! ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4JAvHpjipBk",
+        "id": "37i9dQZF1DX4JAvHpjipBk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000031e194efaed8b2b9f4e0d6445",
+            "width": null
+          }
+        ],
+        "name": "New Music Friday",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNzU1MywwMDAwMDAwMDg4MTVlMDViNTEwMDRjYTQ0MmMyMDg1OWQyY2I4M2Uz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4JAvHpjipBk/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4JAvHpjipBk"
+      },
+      {
+        "collaborative": false,
+        "description": "Peaceful piano to help you slow down, breathe, and relax. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO",
+        "id": "37i9dQZF1DX4sWSpwq3LiO",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003d073e656e546e43bc387ad79",
+            "width": null
+          }
+        ],
+        "name": "Peaceful Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDE5MTY5OSwwMDAwMDAwMGU3N2Q3ZTcxZGZiMzE4NmVhN2YzZDRhY2I5MDFkZDli",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO/tracks",
+          "total": 299
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4sWSpwq3LiO"
+      },
+      {
+        "collaborative": false,
+        "description": "The pulse of R&B music today. Cover: Mahalia",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd",
+        "id": "37i9dQZF1DX4SBhb3fqCJd",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000035edb2c5ab1e16b8b15082114",
+            "width": null
+          }
+        ],
+        "name": "Are & Be",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUzMDEyNSwwMDAwMDAwMDlkMTFjYzM1YThhOWJlNzI4M2U5ZGVhNDdkMjJkOTVm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+      },
+      {
+        "collaborative": false,
+        "description": "Rock legends & epic songs that continue to inspire generations. Cover: Queen",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U",
+        "id": "37i9dQZF1DWXRqgorJj26U",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000035e81461d7898c4309ef0e02d",
+            "width": null
+          }
+        ],
+        "name": "Rock Classics",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY4ODA5NzY2MCwwMDAwMDAwMDZmZTM5ZjZhNDJlNjI3MWNmM2RhMjc4ZmEzMjEwN2My",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXRqgorJj26U/tracks",
+          "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXRqgorJj26U"
+      },
+      {
+        "collaborative": false,
+        "description": "The world's biggest dance hits. Cover: Calvin Harris & Sam Smith",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4dyzvuaRJ0n",
+        "id": "37i9dQZF1DX4dyzvuaRJ0n",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003f63f4605d69532aee4928744",
+            "width": null
+          }
+        ],
+        "name": "mint",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDg2NGQ4NDEzYTFmOWFiZjUwNWVhODAwNjg2ZjIwNTlm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4dyzvuaRJ0n/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+      },
+      {
+        "collaborative": false,
+        "description": "YONAKA along with today's Rock songs you need to hear.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcF6B6QPhFDv",
+        "id": "37i9dQZF1DXcF6B6QPhFDv",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000037cbd39a11e6493e57d854747",
+            "width": null
+          }
+        ],
+        "name": "Rock This",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMGZkZmUzNjFlYTNmYjg3NTQ0ZThmODI2YWMzMjUyYTM1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcF6B6QPhFDv/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcF6B6QPhFDv"
+      },
+      {
+        "collaborative": false,
+        "description": "The very best in new music from around the world. Cover: Travis Scott\n",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXJfnUiYjUKT",
+        "id": "37i9dQZF1DWXJfnUiYjUKT",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000033cd3e8d2be30a8861d36bf3e",
+            "width": null
+          }
+        ],
+        "name": "New Music Friday",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMGY4YWRmNGQ3MmZkNDQ4ZWZhY2FiMDBjNDY5MDg1NDI2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXJfnUiYjUKT/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXJfnUiYjUKT"
+      },
+      {
+        "collaborative": false,
+        "description": "Current favorites and exciting new music. Cover: Calvin Harris & Sam Smith ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcRXFNfZr7Tp",
+        "id": "37i9dQZF1DXcRXFNfZr7Tp",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003418ef86393c74d11e250651d",
+            "width": null
+          }
+        ],
+        "name": "just hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDAzYTZjZjRhNDU0YzQ0YjNlYzI4YTc3NzFlMDQ5ZTE0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcRXFNfZr7Tp/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 2000s. ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4o1oenSJRJd",
+        "id": "37i9dQZF1DX4o1oenSJRJd",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000031439702c44c412a2db32b21e",
+            "width": null
+          }
+        ],
+        "name": "All Out 2000s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY4OTk0MTMwNSwwMDAwMDAwMDUwODBkZjRkNWVlNmMxMzE5MDVmYzdjMzJmYWZiNmQ0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4o1oenSJRJd/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4o1oenSJRJd"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 1990s.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbTxeAdrVG2l",
+        "id": "37i9dQZF1DXbTxeAdrVG2l",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000039d2d4d5fbc0ac3922c10f9a2",
+            "width": null
+          }
+        ],
+        "name": "All Out 90s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDQ5MTQ5MCwwMDAwMDAwMGRjYTQ2ZWE3MWY1OTIzNzQ2N2M4MDdiMTAxNzJkODk5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbTxeAdrVG2l/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXbTxeAdrVG2l"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 1980s.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4UtSsGT1Sbe",
+        "id": "37i9dQZF1DX4UtSsGT1Sbe",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003b83f7e1122a1034f37a8520b",
+            "width": null
+          }
+        ],
+        "name": "All Out 80s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDQ3MDA2MSwwMDAwMDAwMGY3ZGU4MDRlNjA1MWQyYWQwN2I5YzlkM2E1OWQxMjQ0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4UtSsGT1Sbe/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4UtSsGT1Sbe"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 1970s. \n",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTJ7xPn4vNaz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTJ7xPn4vNaz",
+        "id": "37i9dQZF1DWTJ7xPn4vNaz",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000039fa1360866a192b74548cd3c",
+            "width": null
+          }
+        ],
+        "name": "All Out 70s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY4Nzg0NjA0OCwwMDAwMDAwMGMxZjJjMThjOTU1NjE5ZTZlM2MwMjVmNjA0MjJlM2Yz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTJ7xPn4vNaz/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTJ7xPn4vNaz"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 1960s.\n",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaKIA8E7WcJj",
+        "id": "37i9dQZF1DXaKIA8E7WcJj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003de8d30476935221e7d4691a0",
+            "width": null
+          }
+        ],
+        "name": "All Out 60s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY4NjkxOTAzOCwwMDAwMDAwMGE1NWQ2ZjQ4OTBkYjg2YTQ1YmVmYzA5ZGEzNGY3OWQ2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaKIA8E7WcJj/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXaKIA8E7WcJj"
+      },
+      {
+        "collaborative": false,
+        "description": "The biggest songs of the 1950s.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSV3Tk4GO2fq"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSV3Tk4GO2fq",
+        "id": "37i9dQZF1DWSV3Tk4GO2fq",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000036b7554eb13da03bc26f2d1dd",
+            "width": null
+          }
+        ],
+        "name": "All Out 50s",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY4NjkxODk1MCwwMDAwMDAwMGQ1ZGU5MTA5MWZjZWY5ZDU0M2NhMWQzNWQyYzhiNGZm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSV3Tk4GO2fq/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSV3Tk4GO2fq"
+      },
+      {
+        "collaborative": false,
+        "description": "Warm familiar pop you know and love. Cover: Lady Gaga",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwnEm1IYyoj",
+        "id": "37i9dQZF1DWTwnEm1IYyoj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003163207c8107a08d4a480493e",
+            "width": null
+          }
+        ],
+        "name": "Soft Pop Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDM4MTE3MCwwMDAwMDAwMDQ2MGFhNmY5MjRhOGJlYTM3YzdiZDczZjUzZDdkZGFj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwnEm1IYyoj/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTwnEm1IYyoj"
+      },
+      {
+        "collaborative": false,
+        "description": "Crossing over like Allen I. Cover: Gunna",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2A29LI7xHn1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2A29LI7xHn1",
+        "id": "37i9dQZF1DX2A29LI7xHn1",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000038576588f39898a94edadcd63",
+            "width": null
+          }
+        ],
+        "name": "Signed XOXO",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTY5MDgyNjUyOCwwMDAwMDAwMDBlODM4MWJhNWU2MzM1MWE3ZTNjZTQ3OGVjYmUzY2Iz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2A29LI7xHn1/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2A29LI7xHn1"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/users/spotify/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 1113
+  }
+}

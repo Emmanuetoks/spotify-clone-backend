@@ -3,7 +3,7 @@ import User from "../models/userModel.js";
 import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/appError.js";
 import { type } from "os";
-import { DecodedToken } from "../types/spotifyApiTypes.js";
+import { DecodedToken } from "../types/index.js";
 
 // To protect route
 /**

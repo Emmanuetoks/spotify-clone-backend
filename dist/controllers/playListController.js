@@ -3,24 +3,27 @@ import User from "../models/userModel.js";
 import catchAsync from "../utils/catchAsync.js";
 import AppError from "../utils/appError.js";
 //GET
-export const getPlayLists = catchAsync(async (req, res, next) => {
-    const result = await PlayList.find();
-    res.status(200).json({ status: "success", data: result });
+export const getPlayList = catchAsync(async (req, res, next) => {
+    const query = PlayList.findOne({ id: req.params.playlistID });
+    const data = await query;
+    if (!data)
+        return next(new AppError('Playlist does not exits', 400));
+    res.status(200).json(data);
 });
 //POST
 export const createPlayList = catchAsync(async (req, res, next) => {
-    const { name, description, playlistid, owner } = req.body;
+    const { owner, payload } = req.body;
     //Check if user is in database
-    const user = await User.findById(owner);
+    const user = await User.findOne({ id: owner });
     if (!user)
         return next(new AppError("User does not exist, cannot create playlist", 400));
-    const newPlayList = await PlayList.create({ name, description, playListId: playlistid, owner });
+    const result = await PlayList.insertMany(payload);
     //Update the document of the playlist owner in the databse
-    await User.updateOne({ _id: owner }, { $push: { playLists: newPlayList._id } });
+    const saveQueries = await Promise.all(result.map(el => User.updateOne({ id: el.createdBy }, { $push: { playlists: el._id } })));
     res.status(201).json({
         status: "success",
-        message: "New Playlist created",
-        result: newPlayList,
+        message: "Playlists have been created and saved",
+        result,
     });
 });
 //DELETE

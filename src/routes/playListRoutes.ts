@@ -1,11 +1,11 @@
 import express from 'express'
-import { createPlayList, getPlayLists } from '../controllers/playListController.js'
+import { createPlayList, getPlayList } from '../controllers/playListController.js'
 
 
 
 const router = express.Router()
 
-router.route('/').get(getPlayLists).post(createPlayList)
+router.route('/').post(createPlayList)
 
-
+router.route('/:playlistID').get(getPlayList)
 export default router

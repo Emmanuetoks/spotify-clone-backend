@@ -1,0 +1,152 @@
+{
+    "href": "https://api.spotify.com/v1/users/31jot2higkppu3flg2y6ngi7tpr4/playlists?offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/3vy26nrU5IK8MF3ITIm5nf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3vy26nrU5IK8MF3ITIm5nf",
+        "id": "3vy26nrU5IK8MF3ITIm5nf",
+        "images": [],
+        "name": "Super duper dupuer awesome playlist  ",
+        "owner": {
+          "display_name": "Emmanuel Tochukwu",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31jot2higkppu3flg2y6ngi7tpr4"
+          },
+          "href": "https://api.spotify.com/v1/users/31jot2higkppu3flg2y6ngi7tpr4",
+          "id": "31jot2higkppu3flg2y6ngi7tpr4",
+          "type": "user",
+          "uri": "spotify:user:31jot2higkppu3flg2y6ngi7tpr4"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NSxiM2Y0ZjVhNmFlNTQ3ZDVmYjAxZTljNWRhYmQ3ZTE2ODc3ODk4YWE5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/3vy26nrU5IK8MF3ITIm5nf/tracks",
+          "total": 0
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3vy26nrU5IK8MF3ITIm5nf"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/4vuSNk8x1DzG4S0xp8ELms"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4vuSNk8x1DzG4S0xp8ELms",
+        "id": "4vuSNk8x1DzG4S0xp8ELms",
+        "images": [],
+        "name": "My playlist #3",
+        "owner": {
+          "display_name": "Emmanuel Tochukwu",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31jot2higkppu3flg2y6ngi7tpr4"
+          },
+          "href": "https://api.spotify.com/v1/users/31jot2higkppu3flg2y6ngi7tpr4",
+          "id": "31jot2higkppu3flg2y6ngi7tpr4",
+          "type": "user",
+          "uri": "spotify:user:31jot2higkppu3flg2y6ngi7tpr4"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MSxlNTZlNGE5MTY1NDg0ZWQ3NTVkZmVjYjhlOTk4ZjdmZTBhNTBjYTE1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/4vuSNk8x1DzG4S0xp8ELms/tracks",
+          "total": 0
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4vuSNk8x1DzG4S0xp8ELms"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7ieVswKx05Ogj0lwedOaRu"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7ieVswKx05Ogj0lwedOaRu",
+        "id": "7ieVswKx05Ogj0lwedOaRu",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731c8e13617641277af66c78fcab67616d0000b2731e95bc105b7d4109f059c36cab67616d0000b27336aa775c5c94a20ac749fdbdab67616d0000b27374b9a0a138b331a6d1cbd32f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731c8e13617641277af66c78fcab67616d0000b2731e95bc105b7d4109f059c36cab67616d0000b27336aa775c5c94a20ac749fdbdab67616d0000b27374b9a0a138b331a6d1cbd32f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731c8e13617641277af66c78fcab67616d0000b2731e95bc105b7d4109f059c36cab67616d0000b27336aa775c5c94a20ac749fdbdab67616d0000b27374b9a0a138b331a6d1cbd32f",
+            "width": 60
+          }
+        ],
+        "name": "Chicken",
+        "owner": {
+          "display_name": "Emmanuel Tochukwu",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31jot2higkppu3flg2y6ngi7tpr4"
+          },
+          "href": "https://api.spotify.com/v1/users/31jot2higkppu3flg2y6ngi7tpr4",
+          "id": "31jot2higkppu3flg2y6ngi7tpr4",
+          "type": "user",
+          "uri": "spotify:user:31jot2higkppu3flg2y6ngi7tpr4"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjgsOWRhYTk1MTFjMjdlMWM1YjUwYjgyMzViNzA5ZDFkNTQ0OTQ5ZTg4Nw==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7ieVswKx05Ogj0lwedOaRu/tracks",
+          "total": 22
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7ieVswKx05Ogj0lwedOaRu"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6dDNjijITbQwjrJVNn1VvG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6dDNjijITbQwjrJVNn1VvG",
+        "id": "6dDNjijITbQwjrJVNn1VvG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b7d6ca50bf766ad72226290c",
+            "width": 640
+          }
+        ],
+        "name": "Rice",
+        "owner": {
+          "display_name": "Emmanuel Tochukwu",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31jot2higkppu3flg2y6ngi7tpr4"
+          },
+          "href": "https://api.spotify.com/v1/users/31jot2higkppu3flg2y6ngi7tpr4",
+          "id": "31jot2higkppu3flg2y6ngi7tpr4",
+          "type": "user",
+          "uri": "spotify:user:31jot2higkppu3flg2y6ngi7tpr4"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MixhOTU1YTc2ZmRlMjQ2OTA5NDIyNTc5MTdiOGUzNDNlOGZjMWFmOWQz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6dDNjijITbQwjrJVNn1VvG/tracks",
+          "total": 1
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6dDNjijITbQwjrJVNn1VvG"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

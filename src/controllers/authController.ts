@@ -3,7 +3,7 @@ import AppError from "../utils/appError.js";
 import catchAsync from "../utils/catchAsync.js";
 import jsonwebtoken from "jsonwebtoken";
 import bcrypt from "bcryptjs";
-import { LoginRequestBody } from "../types/spotifyApiTypes.js";
+import { LoginRequestBody } from "../types/index.js";
 
 export const signUpUser = catchAsync(async (req, res, next) => {
   const newUser = await User.create({
@@ -12,6 +12,7 @@ export const signUpUser = catchAsync(async (req, res, next) => {
     password: req.body.password,
     username: req.body.username || "Rnadomuser2839",
     confirmPassword: req.body.confirmPassword,
+    id:req.body.id,
   });
 
   res.status(200).json({

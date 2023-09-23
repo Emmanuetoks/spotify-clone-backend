@@ -1,0 +1,733 @@
+{
+  "message": "Workout",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFAXlCG6QvYQ4/playlists?country=NG&offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Fourth quarter, two minutes left .. get locked in",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTl4y3vgJOXW",
+        "id": "37i9dQZF1DWTl4y3vgJOXW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000340a92cb9d23cd678d26020ed",
+            "width": null
+          }
+        ],
+        "name": "Locked In",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDgzMDk3OSwwMDAwMDAwMGUxMjAzYzhlY2YxN2NlYzNjMmRlOWEwMzcxNWU4NmZj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTl4y3vgJOXW/tracks",
+          "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTl4y3vgJOXW"
+      },
+      {
+        "collaborative": false,
+        "description": "Amapiano tracks to fuel your beast mode!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1in2XW8zzxO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1in2XW8zzxO",
+        "id": "37i9dQZF1DX1in2XW8zzxO",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003e4dbbcae8dfd1b03da6da60c",
+            "width": null
+          }
+        ],
+        "name": "Beast Mode Amapiano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4ODExMTM3OSwwMDAwMDAwMGMzNjNlYTdkNjUxYWZjM2RiNDA4YmM4YWYwYmU4NWMz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1in2XW8zzxO/tracks",
+          "total": 79
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1in2XW8zzxO"
+      },
+      {
+        "collaborative": false,
+        "description": "Your go to Afrobeats workout playlist ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZ2fb6SBrzTW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZ2fb6SBrzTW",
+        "id": "37i9dQZF1DWZ2fb6SBrzTW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000035d791d79955871744a231345",
+            "width": null
+          }
+        ],
+        "name": "Keep Fit Club ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU0MjQ0NywwMDAwMDAwMGVjOTRmN2YyZWM3YTFiYzA3NzdiZGE3MjE4OGYwYTM5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZ2fb6SBrzTW/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZ2fb6SBrzTW"
+      },
+      {
+        "collaborative": false,
+        "description": "Big rap for big reps. You got this.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX76t638V6CA8"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX76t638V6CA8",
+        "id": "37i9dQZF1DX76t638V6CA8",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000030b5dffb6f645059b157fc77b",
+            "width": null
+          }
+        ],
+        "name": "Rap Workout",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTg5OTYwNywwMDAwMDAwMGYzMzA4MDI0ZjhlZTMyOTFjYzE2ZmY2ZmEwYmU1M2Yz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX76t638V6CA8/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX76t638V6CA8"
+      },
+      {
+        "collaborative": false,
+        "description": "Energy tracks to get your beast mode on.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9oh43oAzkyx"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9oh43oAzkyx",
+        "id": "37i9dQZF1DX9oh43oAzkyx",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003d2d1cbd94520146a3fecc8fd",
+            "width": null
+          }
+        ],
+        "name": "Beast Mode Hip-Hop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUyMDM1MSwwMDAwMDAwMDIzY2ZmNDVhNTE2NzQ2ZmQ0YmI4ZWU1NWIzMDcyNTJm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9oh43oAzkyx/tracks",
+          "total": 76
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9oh43oAzkyx"
+      },
+      {
+        "collaborative": false,
+        "description": "Hip hop tracks to kick your workout up a notch",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3RR19vHNnb8"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3RR19vHNnb8",
+        "id": "37i9dQZF1DX3RR19vHNnb8",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000037fe0c6c9a580cb8b6fe24547",
+            "width": null
+          }
+        ],
+        "name": "Pump it Up ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU0MjM3NSwwMDAwMDAwMGUwNmQ4NTYxMGY5MWUyM2U1NjZkYTUwOTBiYWRhYmI3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3RR19vHNnb8/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX3RR19vHNnb8"
+      },
+      {
+        "collaborative": false,
+        "description": "For whatever activity you do that may need a punch of intensity!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUVpAXiEPK8P"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUVpAXiEPK8P",
+        "id": "37i9dQZF1DWUVpAXiEPK8P",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000035b9afc20f73de2953ea450f7",
+            "width": null
+          }
+        ],
+        "name": "Power Workout",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTg5OTg5OSwwMDAwMDAwMDg3NjIyMzRlYTgwZDkyZGEwY2VjN2YyODI2ZjA5NGQ3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUVpAXiEPK8P/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWUVpAXiEPK8P"
+      },
+      {
+        "collaborative": false,
+        "description": "Get your beast mode on!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX76Wlfdnj7AP",
+        "id": "37i9dQZF1DX76Wlfdnj7AP",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003c771198277ecd33007dd2de4",
+            "width": null
+          }
+        ],
+        "name": "Beast Mode",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU2MDAwMCwwMDAwMDAwMDQ3NTFmNTdlOTY1MDI4MmE2ZGNkODJjZTA4NWM2MTdm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX76Wlfdnj7AP/tracks",
+          "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+      },
+      {
+        "collaborative": false,
+        "description": "Run to the world of R&B and hip-hop.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWPcvnOpPG3x"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWPcvnOpPG3x",
+        "id": "37i9dQZF1DWWPcvnOpPG3x",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000033f22beb2471ef8949bb95d97",
+            "width": null
+          }
+        ],
+        "name": "Run This Town",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkyMDkwNSwwMDAwMDAwMGFjOTJmMjA3NmQxMWU5YzNjMGJiNmU5ODY5ZmYzYmM1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWPcvnOpPG3x/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWWPcvnOpPG3x"
+      },
+      {
+        "collaborative": false,
+        "description": "Hear how the Super Falcons soar! ",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8SaiEt4OVJw"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8SaiEt4OVJw",
+        "id": "37i9dQZF1DX8SaiEt4OVJw",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000037230ad0f6cdb0c62a5f3fb7f",
+            "width": null
+          }
+        ],
+        "name": "Locker Room ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU1MzQyMCwwMDAwMDAwMGY2M2Y3NmE5YWZlNTA5MzNjYTIzNTVkYTg1NTVmMDA3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8SaiEt4OVJw/tracks",
+          "total": 30
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8SaiEt4OVJw"
+      },
+      {
+        "collaborative": false,
+        "description": "Need to get your energy level up? This will help!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSnRSDTCsoPk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSnRSDTCsoPk",
+        "id": "37i9dQZF1DWSnRSDTCsoPk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003b50b2ffb67a9e0a1f9eef555",
+            "width": null
+          }
+        ],
+        "name": "Energy Booster: K-Pop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDM2MzQ0MywwMDAwMDAwMDg1MTM0YmVmMDQyNjE3MDc4YTdlN2Y3MDU4YzljZGRh",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSnRSDTCsoPk/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSnRSDTCsoPk"
+      },
+      {
+        "collaborative": false,
+        "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXq6zX9dQEzo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXq6zX9dQEzo",
+        "id": "37i9dQZF1DWXq6zX9dQEzo",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000030de98589ff692fedb90fc549",
+            "width": null
+          }
+        ],
+        "name": "Beast Mode Christian",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkxOTU5NiwwMDAwMDAwMGI3MzNkYzk5OTliYmExMGY3MmY5MTI4OWFkZjE0NjQz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXq6zX9dQEzo/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXq6zX9dQEzo"
+      },
+      {
+        "collaborative": false,
+        "description": "Dance tracks for a big workout.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdURFimg6Blm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdURFimg6Blm",
+        "id": "37i9dQZF1DXdURFimg6Blm",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003e0aa2c83f50898a7ba3cd77d",
+            "width": null
+          }
+        ],
+        "name": "Beast Mode Dance",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMGJhNzgwYWM1NGVjMDZiMzMxYzQ1NDA0NWUyODA0ZGM1",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdURFimg6Blm/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXdURFimg6Blm"
+      },
+      {
+        "collaborative": false,
+        "description": "Put a spring in your step with these mood boosting tracks.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXadOVCgGhS7j"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXadOVCgGhS7j",
+        "id": "37i9dQZF1DXadOVCgGhS7j",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000338fdd2633a3310d7d1106c92",
+            "width": null
+          }
+        ],
+        "name": "Fun Run",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4ODEwMjMyMywwMDAwMDAwMGViZTY5ODU0NjI0NzZmMGNkNjVmNGIzMDJkNmRiODVk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXadOVCgGhS7j/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXadOVCgGhS7j"
+      },
+      {
+        "collaborative": false,
+        "description": "Throw it back to the biggest, best hits of the 2000's.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8CwbNGNKurt"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8CwbNGNKurt",
+        "id": "37i9dQZF1DX8CwbNGNKurt",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003965d4a3e29531b849c67ce97",
+            "width": null
+          }
+        ],
+        "name": "Throwback Workout",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkxOTEzOCwwMDAwMDAwMDc1ZDlhOWViYTg0MDM3MGE3NjcxMzM3NWIzZGZmYjVh",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8CwbNGNKurt/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8CwbNGNKurt"
+      },
+      {
+        "collaborative": false,
+        "description": "Catchy pop music to keep those legs going.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVhQ5d3I6DeF"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVhQ5d3I6DeF",
+        "id": "37i9dQZF1DWVhQ5d3I6DeF",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003bbf7afae234cf3c684ec7b4f",
+            "width": null
+          }
+        ],
+        "name": "Fast Pop Run",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjgzNTkyMiwwMDAwMDAwMDA5MTljOWY5MGY4ZDg3MmYxZjhhM2UyYTBjMWUwNDkz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVhQ5d3I6DeF/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVhQ5d3I6DeF"
+      },
+      {
+        "collaborative": false,
+        "description": "Tap it back or go for a spin with these uptempo tracks!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX32NsLKyzScr"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX32NsLKyzScr",
+        "id": "37i9dQZF1DX32NsLKyzScr",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003cb23f54d979311c1f323a056",
+            "width": null
+          }
+        ],
+        "name": "Power Hour",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMDZhZDllYjc3ZWEzNjBiYjM3ZTRlOGUwMjg3MTk5NTVl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX32NsLKyzScr/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+      },
+      {
+        "collaborative": false,
+        "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4eRPd9frC1m"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4eRPd9frC1m",
+        "id": "37i9dQZF1DX4eRPd9frC1m",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003359b521f1a895103522edde9",
+            "width": null
+          }
+        ],
+        "name": "Hype",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTMwNzIwMCwwMDAwMDAwMGNlZWZjYmUzZDVjMDg0M2YyZjFmMzYxNWM3ZTk3NDI3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4eRPd9frC1m/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4eRPd9frC1m"
+      },
+      {
+        "collaborative": false,
+        "description": "Celebrate #SelfCareSunday with Michelle Obama's workout mix.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2BCKQiTaN5o"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2BCKQiTaN5o",
+        "id": "37i9dQZF1DX2BCKQiTaN5o",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000032f0b2c3d3c956f9c09a20db1",
+            "width": null
+          }
+        ],
+        "name": "Michelle Obama's Workout Playlist",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjgzNDA1MSwwMDAwMDAwMDYyNWJiNjcyNWIyMTIzY2UxMTFlYmIxMDFkNGI0NTUz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2BCKQiTaN5o/tracks",
+          "total": 35
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2BCKQiTaN5o"
+      },
+      {
+        "collaborative": false,
+        "description": "Need to get your energy level up?",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX35X4JNyBWtb"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX35X4JNyBWtb",
+        "id": "37i9dQZF1DX35X4JNyBWtb",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000031b9e7d55824e5d5fb81875bf",
+            "width": null
+          }
+        ],
+        "name": "Energy Booster: Dance",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTMwNzIwMCwwMDAwMDAwMGVkOTIyYmVlNGI4NmExYjIzMDJiNDczMDI0MjkxNGQy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX35X4JNyBWtb/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX35X4JNyBWtb"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFAXlCG6QvYQ4/playlists?country=NG&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 75
+  }
+}

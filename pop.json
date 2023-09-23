@@ -1,0 +1,652 @@
+{
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFEC4WFtoNRpw/playlists?country=NG&offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Life in plastic is fantastic ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX45grRWk2ghU" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX45grRWk2ghU",
+        "id": "37i9dQZF1DX45grRWk2ghU",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003d6233b53b06497fd1d13449e",
+            "width": null
+          }
+        ],
+        "name": "Hot Pink",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDQ3NTk4OSwwMDAwMDAwMDRmZDllNDFhYjk3ZDhjZDEwYmE4OWE2Njc0ODU1ZjMz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX45grRWk2ghU/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX45grRWk2ghU"
+      },
+      {
+        "collaborative": false,
+        "description": "She's everything. He's just Ken. Listen to the music from and inspired by Barbie, curated by Mark Ronson. ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0wIBbVnPvie" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0wIBbVnPvie",
+        "id": "37i9dQZF1DX0wIBbVnPvie",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003459feb62b1b4b597fb8684d8",
+            "width": null
+          }
+        ],
+        "name": "Barbie Official Playlist",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTk2NTU2OSwwMDAwMDAwMDEyMjg1MzJiZGVkODZkMGQ1NmM0ZTNmZGFjMzMyMzU2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0wIBbVnPvie/tracks",
+          "total": 40
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0wIBbVnPvie"
+      },
+      {
+        "collaborative": false,
+        "description": "Turn up with the biggest party tracks of the '90s and '00s.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8ky12eWIvcW" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ky12eWIvcW",
+        "id": "37i9dQZF1DX8ky12eWIvcW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003045d33b545375eae81954476",
+            "width": null
+          }
+        ],
+        "name": "Throwback Jams",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTkxMjAwMCwwMDAwMDAwMGM3MjcxMGJkZTQ2NGI0Y2IwNTQzZDVmYzJmMTQ4NDkz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8ky12eWIvcW/tracks",
+          "total": 93
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8ky12eWIvcW"
+      },
+      {
+        "collaborative": false,
+        "description": "It's a main pop girl emergency 🆘  Cover: Ava Max",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7YE2tQ4q86h",
+        "id": "37i9dQZF1DX7YE2tQ4q86h",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003cb67a611ab1d475f58e65a0b",
+            "width": null
+          }
+        ],
+        "name": "OBSESSED",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjgwMCwwMDAwMDAwMGNlNzU0NDdkZmQ1OTE4ZWRkOTNjZThkMmZjYWM2NTRi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7YE2tQ4q86h/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7YE2tQ4q86h"
+      },
+      {
+        "collaborative": false,
+        "description": "Todo lo que es cultura pop. I'm a Latin girl, in my Latin world ✨💅🏻💕🛍🎀 ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWwsUp7D7wBj",
+        "id": "37i9dQZF1DWWwsUp7D7wBj",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003059779f2b53f6870cc84f2d4",
+            "width": null
+          }
+        ],
+        "name": "cultura.now",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDMxOTY1NCwwMDAwMDAwMDE4ZDY2NzhiNzUyNjM4ZGFlMjE4M2MwMGQ2OWUxNzZj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWwsUp7D7wBj/tracks",
+          "total": 25
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWWwsUp7D7wBj"
+      },
+      {
+        "collaborative": false,
+        "description": "For a love story straight out of the 2000s. Cover: Elle Woods. ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4cizS4wQeF2" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4cizS4wQeF2",
+        "id": "37i9dQZF1DX4cizS4wQeF2",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000032311a464c7fd83c571a6fcec",
+            "width": null
+          }
+        ],
+        "name": "Romcom",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjI2NDUyOCwwMDAwMDAwMDgwYjhiYzZlNjFiYWIxYmM0YzZhOGY3NGI1NDAxMmMw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4cizS4wQeF2/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4cizS4wQeF2"
+      },
+      {
+        "collaborative": false,
+        "description": "Yay me! Starring London Tipton 🩷",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX24HW7kIIcEV",
+        "id": "37i9dQZF1DX24HW7kIIcEV",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003bf3deb260957bb1677e962b6",
+            "width": null
+          }
+        ],
+        "name": "after school club 🪄",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjMyODQ0MSwwMDAwMDAwMGRlODc1YzdjNmRlNjczMmEyNTI1YTlmODI5NzlkNzQ3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX24HW7kIIcEV/tracks",
+          "total": 85
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX24HW7kIIcEV"
+      },
+      {
+        "collaborative": false,
+        "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: BIA",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GwdWRQMQpq",
+        "id": "37i9dQZF1DX6GwdWRQMQpq",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000362f22a00d9dab72d8d3b81f0",
+            "width": null
+          }
+        ],
+        "name": "Feelin' Myself",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU2OTk1MiwwMDAwMDAwMDYxMDExZTM2NzEyODA2ZmEwZjQxYjgxZjNhYjM2MmUw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6GwdWRQMQpq/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6GwdWRQMQpq"
+      },
+      {
+        "collaborative": false,
+        "description": "that's hot",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6MAQN3OnFEl" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6MAQN3OnFEl",
+        "id": "37i9dQZF1DX6MAQN3OnFEl",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000037a2554d267135872e95fb0fc",
+            "width": null
+          }
+        ],
+        "name": "y2k",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkyMDk1MiwwMDAwMDAwMDYyYzQxMTVjNDg4MWMzOTAxYTU0OGVhZWYwNWRhODhh",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6MAQN3OnFEl/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6MAQN3OnFEl"
+      },
+      {
+        "collaborative": false,
+        "description": "summer has landed",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9nkam6FKfgM" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9nkam6FKfgM",
+        "id": "37i9dQZF1DX9nkam6FKfgM",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000032ce4b7e4b4fc77e44b206063",
+            "width": null
+          }
+        ],
+        "name": "Summer Pop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDIzNTkwNiwwMDAwMDAwMDFkY2MwMzVmZWNlMTM4ZmQ5YjM4OGRmZTgwMzk5MGU2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9nkam6FKfgM/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9nkam6FKfgM"
+      },
+      {
+        "collaborative": false,
+        "description": "Dark, hard hitting pop. Cover: maryjo",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6tPTxr8qwRe",
+        "id": "37i9dQZF1DX6tPTxr8qwRe",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003a6c89d0ad201264cf8ae7da1",
+            "width": null
+          }
+        ],
+        "name": "SALT",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDU2NDUxOSwwMDAwMDAwMDBhYTJjMmY2YTAwNmE1YWY3MjQ0ZjcwYmUwNmJkMTVl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6tPTxr8qwRe/tracks",
+          "total": 95
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6tPTxr8qwRe"
+      },
+      {
+        "collaborative": false,
+        "description": "pov: you're wearing a fluffy pink dress in a John Hughes movie",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2Ft2Y1RF4jG" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2Ft2Y1RF4jG",
+        "id": "37i9dQZF1DX2Ft2Y1RF4jG",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003cdf44012a21ad9f4691487bd",
+            "width": null
+          }
+        ],
+        "name": "Retro Prom",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjgzNzA3NiwwMDAwMDAwMDRiZTIzMWY0YmU1MjUwMDY1MmVkOTFiMmMzMTVkZTI2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2Ft2Y1RF4jG/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2Ft2Y1RF4jG"
+      },
+      {
+        "collaborative": false,
+        "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0oFpWfPwcGv" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0oFpWfPwcGv",
+        "id": "37i9dQZF1DX0oFpWfPwcGv",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000309a1a665c885befa106b0c8b",
+            "width": null
+          }
+        ],
+        "name": "Disco Decadence",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjkxOTM0NSwwMDAwMDAwMGEwMjU4NjRiOGE4ZTE4YjMwYWYxNWRlNWQxMGFhMDcz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0oFpWfPwcGv/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0oFpWfPwcGv"
+      },
+      {
+        "collaborative": false,
+        "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and Justin Timberlake on repeat! Cover: Katy Perry. ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4UZCW3u80le" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4UZCW3u80le",
+        "id": "37i9dQZF1DX4UZCW3u80le",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003ce00ba1ceb29c1e94bbc6bb5",
+            "width": null
+          }
+        ],
+        "name": "2000s Pop",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4NjI1MjgwMSwwMDAwMDAwMGU2MWE2OTdhNTJjYTMyMDQ0NjU0ZDZmNmRlOGU0ZTZj",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4UZCW3u80le/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4UZCW3u80le"
+      },
+      {
+        "collaborative": false,
+        "description": "leggings, walking pads, water tumblers - that's hot",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbdNhlZLjJXz",
+        "id": "37i9dQZF1DXbdNhlZLjJXz",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003173ffa3f2bd3352bc3312fbc",
+            "width": null
+          }
+        ],
+        "name": "hot girl walk",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTkxMjI1OCwwMDAwMDAwMGQ3MTlkNWMwMjJkOTZhYTJhNzgzMTM0NzUwM2U1OGI3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbdNhlZLjJXz/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXbdNhlZLjJXz"
+      },
+      {
+        "collaborative": false,
+        "description": "ur on the list bb 🪐 featuring piri & Tommy Villiers ",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWW1XLSH8Oafp",
+        "id": "37i9dQZF1DWW1XLSH8Oafp",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000003dfb63f97065725c8f53011fa",
+            "width": null
+          }
+        ],
+        "name": "planet rave",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDQ5ODgwMCwwMDAwMDAwMDFkMTA5NTc1NzkzMmY0OTY0ZmNmYzcxN2ZkM2UzZDZl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWW1XLSH8Oafp/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWW1XLSH8Oafp"
+      },
+      {
+        "collaborative": false,
+        "description": "make the whole place shimmer ✨",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa90jZU6E5GN" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa90jZU6E5GN",
+        "id": "37i9dQZF1DXa90jZU6E5GN",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000381944d6c11d4a25c2e96149a",
+            "width": null
+          }
+        ],
+        "name": "neon cowgirl",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDIyNzk0MSwwMDAwMDAwMDBmNDEzMTIwZmMzZTQ5NjkxZmQzMmNkMjI2MWYwNzMy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa90jZU6E5GN/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXa90jZU6E5GN"
+      },
+      {
+        "collaborative": false,
+        "description": "A happy place.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9ZAByPehUEa" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9ZAByPehUEa",
+        "id": "37i9dQZF1DX9ZAByPehUEa",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000345437eab4dc4cb2c8e7cc792",
+            "width": null
+          }
+        ],
+        "name": "DISCOLAND",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTMzNjAwMCwwMDAwMDAwMGNkZTcxYTJhM2I3YjU5MThkMTE2OWRmMTU1YTZiMzU3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9ZAByPehUEa/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX9ZAByPehUEa"
+      },
+      {
+        "collaborative": false,
+        "description": "House music lives here. United under one roof, featuring Peggy Gou.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa8NOEUWPn9W",
+        "id": "37i9dQZF1DXa8NOEUWPn9W",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000396c05cccd85f30bd89b60b1d",
+            "width": null
+          }
+        ],
+        "name": "Housewerk",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY5MDUxNjg2MCwwMDAwMDAwMGFjMWI5YTExMzEwYTYyNWViMWE0OGI2ODBkZjIyY2Nk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa8NOEUWPn9W/tracks",
+          "total": 125
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W"
+      },
+      {
+        "collaborative": false,
+        "description": "The softer side of dance.",
+        "external_urls": { "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXccH49bh52dB" },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXccH49bh52dB",
+        "id": "37i9dQZF1DXccH49bh52dB",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000034398f111095898becb38b7f5",
+            "width": null
+          }
+        ],
+        "name": "Chilled Dance Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTY4OTkxMjA2MCwwMDAwMDAwMDk2OTJmNDY0NTBmOGYzOTIwNGE1ODQyN2MxZTdlNjRm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXccH49bh52dB/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXccH49bh52dB"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFEC4WFtoNRpw/playlists?country=NG&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 59
+  }
+}

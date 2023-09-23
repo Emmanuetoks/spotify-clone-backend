@@ -4,9 +4,6 @@ interface AppError {
     isOperational:Boolean;
 }
 
-
-
-
 class AppError extends Error{
     constructor(message:string, errCode:number) {
         super(message)

@@ -1,14 +1,14 @@
 import { Model, Schema } from "mongoose";
 
 export interface IUser {
-  name: string;
-  username: string;
+  display_name: string;
   password: string;
+  id:{type:string, unique:(string |boolean)[]};
   email: {type:string, unique:(string | boolean)[]};
   confirmPassword: string;
-  accountType: string;
-  accountPlan:string;
-  playLists: Schema.Types.ObjectId[];
+  type: string;
+  membership:string;
+  playlists: Schema.Types.ObjectId[];
 }
 
 
