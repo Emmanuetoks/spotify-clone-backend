@@ -6,6 +6,7 @@ import AppError from "./utils/appError.js";
 import { loginUser, signUpUser } from "./controllers/authController.js";
 import playListRoutes from "./routes/playListRoutes.js";
 import categoeyRoutes from './routes/categoryRoutes.js';
+import streamingRoutes from './routes/streamingRoute.js';
 const app = express();
 // MIDDLEWARE
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -41,6 +42,7 @@ app.post("/login", loginUser);
 app.use('/api/v1/categories', categoeyRoutes);
 app.use("/api/v1/users", userRoutes);
 app.use("/api/v1/playlists", playListRoutes);
+app.use("/api/v1/track", streamingRoutes);
 app.all("*", (req, res, next) => {
     const error = new AppError("OH! OH!, it seems the route you are looking for does not exist", 400);
     next(error);
