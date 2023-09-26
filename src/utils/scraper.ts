@@ -1,7 +1,6 @@
 import Category from "../models/categoryModel.js";
 import PlayList from "../models/playListModel.js";
 import fs from "fs/promises";
-
 export const savePlaylists = async (filePaths: string[]) => {
   const rawFiles = await Promise.all(filePaths.map((el) => fs.readFile(el)));
   const chill = rawFiles

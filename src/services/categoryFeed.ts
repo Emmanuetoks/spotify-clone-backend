@@ -8,7 +8,6 @@ export const getCategoryQueries = (...searchQueries: string[]) => {
       .populate("playlists", { _id: 0, __v: 0 });
     // const real = { ...res, items: res.playlists };
     // delete real.playlists;
-
     // return real;
   });
 };

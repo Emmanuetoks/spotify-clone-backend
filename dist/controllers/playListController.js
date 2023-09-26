@@ -8,7 +8,7 @@ export const getPlayList = catchAsync(async (req, res, next) => {
     const data = await query;
     if (!data)
         return next(new AppError('Playlist does not exits', 400));
-    res.status(200).json(data);
+    res.status(200).json({ data: [data] });
 });
 //POST
 export const createPlayList = catchAsync(async (req, res, next) => {

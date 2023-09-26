@@ -79,7 +79,7 @@ export const getUserPlaylists = catchAsync(async (req, res, next) => {
 
 export const getUserFeed = catchAsync(async (req, res, next) => {
   let data = await Promise.all(
-    getCategoryQueries("c9bacecb2f3346b08353839b4a93c411", "0ea070e408934eec9a3011f373bce1be", 'cacce5f7766244918fbd6a45bc3d222d'),
+    getCategoryQueries("f409f459e629458db11f7806c054e99e", "cb053aceb73c46768098bf0ade834220", '80dbcc96af6a40619abeb1d61a3ad07f', 'bcc1ab195e684efd9a4dc834aca1f4f0'),
   );
 
   res.status(200).json({

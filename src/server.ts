@@ -13,13 +13,11 @@ mongoose
   .catch((err) => console.log("Error Ocured", err));
 
 // try {
-//   await savePlaylists(['spotify-playlist.json', 'workout.json', 'editor-picks.json', 'mood.json',  ]);
+//   await saveCategories(['spotify-playlist.json', 'workout.json', 'editor-picks.json', 'mood.json',  ]);
 //   console.log("Saved successfully");
 // } catch (error) {
 //   console.log(error);
 // }
-
-
 
 app.listen(PORT, () => {
   console.log(`App is running on PORT ${PORT}`);
