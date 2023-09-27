@@ -14,7 +14,6 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-//app.use(addCorsHeaders);
 
 // ROUTES
 // app.get("/", async (req, res: Response) => {
@@ -43,6 +42,7 @@ app.use(bodyParser.json());
 //     data: firstAPI.data,
 //   });
 // });
+app.use(addCorsHeaders);
 app.post("/signup", signUpUser);
 app.post("/login", loginUser);
 app.use('/api/v1/categories', categoeyRoutes)

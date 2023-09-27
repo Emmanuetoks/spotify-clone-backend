@@ -12,14 +12,14 @@ export const getPlayList = catchAsync(async (req, res, next) => {
 });
 //POST
 export const createPlayList = catchAsync(async (req, res, next) => {
-    const { owner, payload } = req.body;
+    const { payload } = req.body;
     //Check if user is in database
-    const user = await User.findOne({ id: owner });
+    const user = await User.findOne({ id: payload.owner });
     if (!user)
         return next(new AppError("User does not exist, cannot create playlist", 400));
     const result = await PlayList.insertMany(payload);
     //Update the document of the playlist owner in the databse
-    const saveQueries = await Promise.all(result.map(el => User.updateOne({ id: el.createdBy }, { $push: { playlists: el._id } })));
+    const saveQueries = await Promise.all(result.map(el => User.updateOne({ id: payload.owner }, { $push: { playlists: el._id } })));
     res.status(201).json({
         status: "success",
         message: "Playlists have been created and saved",

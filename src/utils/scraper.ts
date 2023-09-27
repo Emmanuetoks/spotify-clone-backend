@@ -6,7 +6,6 @@ export const savePlaylists = async (filePaths: string[]) => {
   const chill = rawFiles
     .map((el) => {
       const parsed = JSON.parse(el.toString());
-
       return parsed.playlists.items;
     })
     .flat(2);

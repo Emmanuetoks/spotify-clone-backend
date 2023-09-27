@@ -11,8 +11,6 @@ export const getPlayList = catchAsync(async (req, res, next) => {
   };
 
   const query = PlayList.findOne({ id: req.params.playlistID });
-
-
   const data = await query;
   if (!data) return next(new AppError('Playlist does not exits', 400))
   res.status(200).json(data);
@@ -21,20 +19,19 @@ export const getPlayList = catchAsync(async (req, res, next) => {
 //POST
 export const createPlayList = catchAsync(async (req, res, next) => {
   type TReqBody = {
-       owner: string;
-    payload:IPlayList
+    payload: IPlayList
   };
 
-  const { owner, payload} = req.body as TReqBody;
+  const { payload } = req.body as TReqBody;
   //Check if user is in database
-  const user = await User.findOne({id:owner});
+  const user = await User.findOne({ id: payload.owner});
   if (!user) return next(new AppError("User does not exist, cannot create playlist", 400));
 
 
   const result = await PlayList.insertMany(payload)
   //Update the document of the playlist owner in the databse
 
-  const saveQueries = await Promise.all(result.map(el => User.updateOne({id:el.createdBy}, {$push:{playlists: el._id}})))
+  const saveQueries = await Promise.all(result.map(el => User.updateOne({ id: payload.owner}, { $push: { playlists: el._id } })))
   res.status(201).json({
     status: "success",
     message: "Playlists have been created and saved",
